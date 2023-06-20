@@ -1,0 +1,19 @@
+body {
+    background-image: url(Img/estrelas.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    color: white;
+}
+
+
+img {
+    width: 200px;
+    height: 200px;
+}
